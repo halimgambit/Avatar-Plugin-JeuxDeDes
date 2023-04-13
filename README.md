@@ -1,5 +1,5 @@
 # Avatar-Plugin-JeuxDeDes
- Jouer au jeux dés avec AVATAR
+ Jouer au jeux de dés avec AVATAR
 
 AVATAR vous lance un nombre aleatoire entre 1 et 6
 
