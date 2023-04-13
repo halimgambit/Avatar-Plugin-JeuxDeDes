@@ -1,0 +1,18 @@
+{
+	"modules": { 
+		"JeuxDeDes": {
+			"version": "1.0",
+			"name": "jeuxdedes",
+			"tts": {
+				"Salon": "J'ai allumé la lumière",
+				"Cuisine": "J'ai allumé les spots"
+			},
+			"clients": {
+				"Salon": 60,
+				"Cuisine": 50
+			},
+			"rules": ["game * dice","dice * game","another dice game","lunche the dice game"]
+		}
+	}
+}
+			
